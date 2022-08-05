@@ -1,0 +1,24 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Libre Baskerville', serif;
+}
+.navbar-brand{
+    font-family: 'Libre Baskerville', serif;
+}
+.nav-link{
+    font-family: 'Libre Baskerville', serif; 
+}
+
+.bg-color{
+    background-color: black;
+    padding: 80px;
+    color: white;
+    font-family: 'Libre Baskerville', serif; 
+}
+
+.text-logo{
+    background-color: rgb(51, 236, 243);
+    
+
+}
