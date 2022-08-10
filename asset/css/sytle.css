@@ -19,16 +19,11 @@ body{
     font-family: 'Libre Baskerville', serif; 
 }
 
-.bg-color{
-    color: white;
-}
 
-.letra{
-    color: white;
-}
 
 .footer-wrap{
     display: flex;
-    justify-content: right;
+    justify-content: space-around;
     align-items: center;
+    color: white;
 }
