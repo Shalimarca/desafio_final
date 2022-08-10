@@ -1,8 +1,17 @@
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     margin: 0%;
     padding: 0%;
+    color: white;
     font-family: 'Libre Baskerville', serif;
 }
+.fondo{
+    background-color: black;
+}
+
 .navbar-brand{
     font-family: 'Libre Baskerville', serif;
 }
@@ -11,14 +20,15 @@ body{
 }
 
 .bg-color{
-    background-color: black;
-    padding: 80px;
     color: white;
-    font-family: 'Libre Baskerville', serif; 
 }
 
-.text-logo{
-    background-color: rgb(51, 236, 243);
-    
+.letra{
+    color: white;
+}
 
+.footer-wrap{
+    display: flex;
+    justify-content: right;
+    align-items: center;
 }
